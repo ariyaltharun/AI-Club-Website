@@ -1,0 +1,58 @@
+
+
+/* Navbar */
+
+
+
+
+
+/* Landing Page */
+.bg-image {
+    /* background-image: linear-gradient(red, blue); */
+    /* background-color: blue; */
+    /* background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%); */
+    background-color: #0015e0;
+    background-image: linear-gradient(290deg, #0015e0 0%, #000000 100%);
+    /* background-image: url('https://w0.peakpx.com/wallpaper/737/751/HD-wallpaper-ai-abstract-artificial-inteligence-blue-brain-crack-iphone-modern-patterns-samsung.jpg'); */
+  }
+  
+  /* .bg-dark {
+    background-color: #000;
+  } */
+  
+  .blend-mode {
+    mix-blend-mode: soft-light;
+  }
+  
+  .border-blend {
+    /* border: 5px solid; */
+    border-image: linear-gradient(290deg, #0015e0 0%, #000000 100%);
+    border-radius: 5%;
+  }
+
+/* Background Video */
+.video-wrap {
+  z-index: 100;
+}
+
+.custom-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: lighten;
+}
+
+
+
+
+/* Footer content */
+.container-fluid {
+   padding: 0 15%;
+}
+
+.footer-custom {
+    padding: 0 15%;
+}
